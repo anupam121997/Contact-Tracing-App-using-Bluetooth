@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617181637610",
+    "project_id": "coprotect-691e5",
+    "storage_bucket": "coprotect-691e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617181637610:android:c8ac17128aa43458b86093",
+        "android_client_info": {
+          "package_name": "com.example.projectinterface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617181637610-d36gfd8c6ni3bj1gd38phirbadoe9tae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBHfFq-_tExim4ZcpA3_9sOqYW35hiXQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617181637610-d36gfd8c6ni3bj1gd38phirbadoe9tae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

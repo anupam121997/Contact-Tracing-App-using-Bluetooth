@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoProtect</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="would_you_like_to">Would you like to be kept informed if you <br>have crossed paths with someone who has </br><br>tested COVID-19 positive?</br></string>
+    <string name="each_one_of_us">Each one of us has the power to help <br>prevent the spread of the Corona Virus</br><br>pandemic in India.</br> </string>
+    <string name="cowin_20_tracks_through">This app tracks through a Bluetooth Location social graph, <br>your interaction with someone who could have tested</br><br>COVID-19 positive.</br></string>
+    <string name="the_app_alerts_are_accompanied">The App alerts are accompanied by \ninstructions on how to self-isolate and what \nto do in case you develop symptoms that \nmay need help and support</string>
+    <string name="you_will_be_alerted_if">You will be alerted if you have come in close proximity<br> of someone, who has been tested COVID-19 positive.</br></string>
+    <string name="with_cowin_20_you_can"><![CDATA[With <b>Aarogya Setu</b>, you can protect yourself, \nyour family and friends, and help our \ncountry in the effort to fight COVID-19]]></string>
+
+
+    <string name="register_yourself">Register Yourself</string>
+    <string name="phone_no">Phone No</string>
+    <string name="coprotect">CoProtect</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="Already_Reg">Already Registered? Sign In Here!</string>
+    <string name="log_in">Log In</string>
+    <string name="login_here">LogIn Here</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_out">Log Out</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="text_confirmed_cases">Confirmed Cases : %s</string>
+    <string name="text_last_updated">Last Updated : %s</string>
+    <string name="default_notification_channel_name">Covid-19 India</string>
+</resources>
