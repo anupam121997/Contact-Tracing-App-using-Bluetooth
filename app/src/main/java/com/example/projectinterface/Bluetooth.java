@@ -66,7 +66,7 @@ public class Bluetooth extends Service {
         PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, inten, 0);
         Notification notification = new NotificationCompat.Builder(this, CHANNEL_ID).setContentTitle("CoProtect")
                 .setContentText("Stay Safe from COVID-19")
-                .setSmallIcon(R.drawable.ic_android)
+                .setSmallIcon(R.drawable.ic_stat_notification_icon)
                 .setContentIntent(pendingIntent)
                 .build();
 

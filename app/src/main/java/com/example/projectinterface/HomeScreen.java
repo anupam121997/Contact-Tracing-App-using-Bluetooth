@@ -151,14 +151,14 @@ public class HomeScreen extends AppCompatActivity {
                 public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                     if(dataSnapshot.exists()) {
                         //username found
-                        Toast.makeText(getApplicationContext(),"Mac address found ",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(),"ID found",Toast.LENGTH_SHORT).show();
                         status.setText("In Contact With COVID Positive!!");
                         status.setBackgroundColor(Color.parseColor("#fc0303"));
                         Log.i("HomeScreen","+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 
                     }else{
                         // username not found
-                        Toast.makeText(getApplicationContext(),"Mac address not found ",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(),"ID Not found ",Toast.LENGTH_SHORT).show();
                         Log.i("HomeScreen","----------------------------------------------------------------");
                     }
 
